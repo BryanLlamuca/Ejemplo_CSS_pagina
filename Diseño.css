@@ -1,0 +1,25 @@
+section{
+    color: brown;
+}
+
+#primero{
+    background-color: blue;
+}
+
+.clase{
+    background-color: aqua;
+}
+
+section article{
+    background-color: blueviolet;
+    color: black;
+}
+
+div section, h2{
+    background-color: beige;
+}
+
+section>article>h1{
+    background-color: azure;
+    color: brown;
+}
